@@ -15,9 +15,9 @@ Hệ thống quản lý nhân sự cho phép hiển thị danh sách nhân viên
 - **Triển khai:** Render
 
 ## Danh sách Đường Link Nộp Bài
-1. **Link_GitHub:** https://github.com/tranhuyloc237105-maker/237105_TranHuyLoc
-2. **Link_Docker_Backend:** https://hub.docker.com/r/237105tranhuyloc/backend
-3. **Link_Docker_Frontend:** https://hub.docker.com/r/237105tranhuyloc/frontend
+1. **Link_GitHub:** https://github.com/tranhuyloc237105-maker/237105_TranHuyLoc.git
+2. **Link_Docker_Backend:** https://hub.docker.com/r/huyloc05/backend
+3. **Link_Docker_Frontend:** https://hub.docker.com/r/huyloc05/frontend
 4. **Link_Render_App:** https://web-237105.onrender.com
 5. **Link_Render_API:** https://api-237105.onrender.com
-6. **Link_Data_MongoDB:** https://cloud.mongodb.com
+6. **Link_Data_MongoDB:** mongodb+srv://tranhuyloc237105_db_user:doXCHFVfrcCho2Tw@cluster0.2w9ky8z.mongodb.net/237105_TranHuyLoc?retryWrites=true&w=majority
